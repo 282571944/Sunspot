@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sunspot</string>
+    <string name="city_name">Sanfrancisco</string>
+    <string name="camera">Camera</string>
+    <string name="camera_des">Leica M Typ 240</string>
+    <string name="settings">Settings</string>
+    <string name="setting_des">f/4 16s ISO 200</string>
+</resources>
